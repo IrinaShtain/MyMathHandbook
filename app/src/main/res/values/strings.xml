@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Math handbook</string>
+    <string name="toolbaar_title">Математичний довідник</string>
+    <string name="quit">Вийти</string>
+
+    <string name="tab_math">Математика</string>
+    <string name="tab_geomertry">Геометрiя</string>
+    <string name="tab_algebra">Алгебра</string>
+
+    <string name="list_algebra_0">Знаходження коренів квадратного рівняння</string>
+
+    <string name="title_activity_quadratic_equation">Квадратне рівняння</string>
+    <string name="clear">Очистити</string>
+    <string name="x2">X2 = </string>
+    <string name="x1">X1 = </string>
+    <string name="dys">Дискримінант:</string>
+    <string name="find">Знайти</string>
+    <string name="c">Введіть c:</string>
+    <string name="b">Введіть b:</string>
+    <string name="a">Введіть a:</string>
+    <string name="view_forma">Квадратне рівняння:</string>
+
+    <string name="list_math_0">Калькулятор</string>
+    <string name="result">Результат</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_0">0</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="mult">*</string>
+    <string name="btn_clear_one"><![CDATA[<-]]></string>
+    <string name="btn_point">.</string>
+
+    <string name="list_geometry_0">Теорема Піфагора</string>
+    <string name="text">Введіть відомі сторони:</string>
+    <string name="a_triangle">Введіть а:</string>
+    <string name="b_triangle">Введіть b:</string>
+    <string name="c_triangle">Введіть c:</string>
+    <string name="katet">Введіть катет, якщо відомо</string>
+    <string name="hipotenuza">Введіть гіпотенузу, якщо відомо</string>
+
+    <string name="list_math_1">Додавання дробів</string>
+    <string name="list_math_2">Віднімання дробів</string>
+    <string name="list_math_3">Множення дробів</string>
+    <string name="list_math_4">Ділення дробів</string>
+    <string name="list_math_5">Перетворення дробів</string>
+    <string name="list_math_6">Скорочення дробів</string>
+    <string name="list_math_7">Порівняння дробів</string>
+    <string name="text_fr">Введіть цілу  (якщо є)  і дробову частини</string>
+    <string name="text_convert_wr">Введіть цілу  (якщо є)  і дробову частини правильного дробу</string>
+    <string name="text_convert_wr1">Введіть цілу  (якщо є)  і дробову частини неправильного дробу</string>
+    <string name="cccc">_______________</string>
+    <string name="text_res">Сума заданих дробів:</string>
+    <string name="text_res_sub">Різниця заданих дробів:</string>
+    <string name="text_res_div">Частка заданих дробів:</string>
+    <string name="text_res_mult">Добуток заданих дробів:</string>
+    <string name="text_rereducing">Введіть дріб, який потрібно скоротити:</string>
+    <string name="reduce">Скоротити</string>
+    <string name="convert">Перетворити</string>
+    <string name="compare">Порівняти</string>
+    <string name="text_comparig">Введіть дроби, які потрібно порівняти:</string>
+
+</resources>
